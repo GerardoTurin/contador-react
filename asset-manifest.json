@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/contador-react.git/static/css/main.aa45cf35.css",
+    "main.js": "/contador-react.git/static/js/main.bda23825.js",
+    "static/media/freecodecamp-logo.png": "/contador-react.git/static/media/freecodecamp-logo.cc98822c11b81a38c7fa.png",
+    "index.html": "/contador-react.git/index.html",
+    "main.aa45cf35.css.map": "/contador-react.git/static/css/main.aa45cf35.css.map",
+    "main.bda23825.js.map": "/contador-react.git/static/js/main.bda23825.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa45cf35.css",
+    "static/js/main.bda23825.js"
+  ]
+}
